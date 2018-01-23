@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TimeStyle</key>
+	<string>
+		font-size:16px;
+		margin-top:1px;
+	</string>
+
+	<key>DockedIconLabelStyle</key>
+	<string>
+		font-size:16px;
+		color:rgb(0,0,0);
+		margin:-2px 0px 0px 1px;
+		text-shadow:
+			1px 0px 0px rgb(255,255,255),
+			-1px 0px 0px rgb(255,255,255),
+			0px 1px 0px rgb(255,255,255),
+			0px -1px 0px rgb(255,255,255),
+			1px 1px 0px rgb(255,255,255),
+			1px -1px 0px rgb(255,255,255),
+			-1px 1px 0px rgb(255,255,255),
+			-1px -1px 0px rgb(255,255,255),
+			2px 0px 0px rgb(255,255,255),
+			-2px 0px 0px rgb(255,255,255),
+			0px 2px 0px rgb(255,255,255),
+			0px -2px 0px rgb(255,255,255),
+			2px 1px 0px rgb(255,255,255),
+			2px -1px 0px rgb(255,255,255),
+			-2px 1px 0px rgb(255,255,255),
+			-2px -1px 0px rgb(255,255,255);
+	</string>
+
+	<key>UndockedIconLabelStyle</key>
+	<string>
+		font-size:12px;
+		color:rgb(0,0,0);
+		margin:-1px 0px 0px 1px;
+		text-shadow:
+			1px 0px 0px rgb(255,255,255),
+			-1px 0px 0px rgb(255,255,255),
+			0px 1px 0px rgb(255,255,255),
+			0px -1px 0px rgb(255,255,255),
+			1px 1px 0px rgb(255,255,255),
+			1px -1px 0px rgb(255,255,255),
+			-1px 1px 0px rgb(255,255,255),
+			-1px -1px 0px rgb(255,255,255),
+			2px 0px 0px rgb(255,255,255),
+			-2px 0px 0px rgb(255,255,255),
+			0px 2px 0px rgb(255,255,255),
+			0px -2px 0px rgb(255,255,255),
+			2px 1px 0px rgb(255,255,255),
+			2px -1px 0px rgb(255,255,255),
+			-2px 1px 0px rgb(255,255,255),
+			-2px -1px 0px rgb(255,255,255);
+	</string>
+
+	<key>BadgeStyle</key>
+	<string>
+		font-size:16px; color:rgb(0,0,0);
+	</string>
+
+	<key>CalendarIconDayStyle</key>
+	<string>
+		font-size:8px; color:rgb(255,255,255); margin-top:2px;
+	</string>
+
+	<key>CalendarIconDateStyle</key>
+	<string>
+		font-size:32px; color:rgb(0,0,0); margin-top:6px;
+	</string>
+</dict>
+</plist>

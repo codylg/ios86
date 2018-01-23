@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+
+	<key>name</key>
+	<string>iOS'86 biteSMS</string>
+	<key>description</key>
+	<string>iOS'86 theme for biteSMS</string>
+	<key>retina</key>
+	<false/>
+	<key>applies-to</key>
+    <string>app,qr</string>
+
+</dict></plist>
